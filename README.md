@@ -1,7 +1,5 @@
-Matlab
-======
 《Biosignal and Biomedical Imaging Processing Matlab-Based Application》
-
+======
 这是谭大坤和他的小伙伴们一起写出来的答案，感兴趣的一起探讨一下
 
 特别感谢冯志燕同学，给我们的计划开了个好头，也为我们树立了好榜样，截一幅图给大家看看，这是从他的代码中找到的:
